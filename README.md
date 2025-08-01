@@ -18,12 +18,6 @@ This Power BI project presents a detailed analysis of Zomato's restaurant data a
 
 ---
 
-## 📷 Dashboard Preview
-
-![Dashboard Preview](zomato-image.png)
-
----
-
 ## 📁 Files Included
 
 - `Zomato_Dashboard.pbix` – Main Power BI dashboard file
